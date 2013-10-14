@@ -62,7 +62,6 @@ The use of Magnetic Resonance Imaging (MRI) presents known safety hazards. MRI s
 	- Objects that are ferromagnetic may pin someone against the magnet in a life threatening situation.
 	- Metallic objects in the body can also have dangerous effects when placed in a magnetic field. 
 	- Ferromagnetic metal implants or fragments may twist or move, causing internal injury.
-
 - The Radio Frequency (RF) pulses
 	- MRI scans use radi- frequency pulses. 
 	- RF pulses may cause tissue heating or burns.
@@ -71,11 +70,12 @@ The use of Magnetic Resonance Imaging (MRI) presents known safety hazards. MRI s
 	- RF fields can cause burns by producing electrical currents in conductive loops. 
 	- When using equipment such as surface coils, ECG or EEG leads, researchers must be extremely careful not to allow the wire or cable to form a conductive loop with itself or with the subject. 
 	- Equipment that is not RF shielded may be damaged or may cause spurious signals when operated in the magnetic field.
-
 - The Gradients or Time Varying Magnetic Fields
 	- Rapidly changing gradient fields used in MRI have the potential to cause peripheral nerve stimulation (PNS).
 	- Gradients produce excessive acoustic noise levels for which hearing protection must be provided and worn.
-
+- Acoustic noise
+	- For anatomical imaging, the noise is mostly of low frequency and has a "clunking" sound; for EPI, the noise can be of very high frequency (600-1400 Hz) and sounds like a loud "beep". Generally, the higher gradients used with higher magnetic fields and with EPI produce more intense noise. Prolonged exposure to this noise will damage the unprotected ear. 
+	- Additional noise in the magnet environment comes from the magnet coolant pump, air handling system, and patient fan. While not dangerous, these other sources of noise can be annoying to subjects and can interfere with communication.
 - Devices, objects, and equipment used for experiments
 	- All equipment placed in the magnetic environment must be considered for heating or any other potential safety risk.
 	- Equipment in the magnetic environment may also pose a projectile risk.
@@ -86,13 +86,10 @@ The use of Magnetic Resonance Imaging (MRI) presents known safety hazards. MRI s
 	- There are no known adverse effects of MRI on developing fetuses. 
 	- A recent survey found no association between working in the MR environment and a number of pregnancy outcome variables.
 	- Nevertheless, as with all interventions during pregnancy, it is prudent to screen women of reproductive age for pregnancy prior to permitting them access to MR imaging environments.
-
 - Incidental Findings
 	- It is possible that a health-related condition or abnormality will be revealed during the course of a research study. These conditions may pose a risk to health, or disclosure may affect employment, health insurance eligibility, or reputation.
-
 - Violation of confidentiality
 	- Sensitive information must be revealed to the MR Technologist and in some cases research staff as part of safety screening.
-
 - MRI System Quench
 
 	- The MRI magnet is maintained at a high field strength by means of super-cooling its conductive loops of wire with liquid helium, which is at an extremely low temperature – close to absolute zer- (about 4°K). In certain circumstances, this helium may be rapidly vented off, warming the magnet and causing it to quickly lose its magnetic field. This is known as a “quench.” A quench may be initiated either in a controlled fashion by pressing one of the tw- Magnet Stop buttons, in which case the helium is safely vented to the outside of the building or, in extraordinary situations, such as an earthquake or an explosion, it is possible for an uncontrolled quench to occur, in which case the helium may vent into the room making breathing difficult.
@@ -108,13 +105,14 @@ All of SLEIC's policies and procedures are designed to mitigate risk from partic
 #### Policies
 
 1. SLEIC maintains a safe and orderly operational environment.
-2. The scanner is maintained regularly by trained personnel from the manufacturer, Siemens. Any system problems are reported promptly to the Siemens.
-3. Sequences and coils not yet approved by the Food and Drug Administration (FDA) should only be used under the following conditions:
+2. Only qualified persons may operate the 3T MR scanner.
+3. The scanner is maintained regularly by trained personnel from the manufacturer, Siemens. Any system problems are reported promptly to the Siemens.
+4. Sequences and coils not yet approved by the Food and Drug Administration (FDA) should only be used under the following conditions:
 	- Overriding or disabling the Siemens Specific Absorption Rate (SAR) and rate of magnetic field change (dB/dt) monitoring software is prohibited.
-4. Access to the control room (Zone III) and magnet room (Zone IV) are strictly controlled.
-5. At least two safety-trained personnel must be on hand and in the control room (Zone III) or magnet room (Zone IV) when the magnet is in operation. This will usually be the MR Technologist and a member of the research team.
-6. With the exception of SLEIC staff, all personnel present must be included on the project's IRB protocol. It is responsibility of the project PI to ensure that all personnel present are included on the approved IRB protocol. 
-7. The MR Technologist will take the lead on any emergency response procedures, with the help of the second person present.
+5. Access to the control room (Zone III) and magnet room (Zone IV) are strictly controlled.
+6. At least two safety-trained personnel must be on hand and in the control room (Zone III) or magnet room (Zone IV) when the magnet is in operation. This will usually be the MR Technologist and a member of the research team.
+7. With the exception of SLEIC staff, all personnel present must be included on the project's IRB protocol. It is responsibility of the project PI to ensure that all personnel present are included on the approved IRB protocol. 
+8. The MR Technologist will take the lead on any emergency response procedures, with the help of the second person present.
 
 #### Procedures
 
@@ -140,9 +138,9 @@ All of SLEIC's policies and procedures are designed to mitigate risk from partic
 - Non-FDA approved coils may not be used on humans without an approved IRB protocol.
 - Use of pulse sequences and/or coils outside of these conditions and intended for human or animal studies must be reviewed by the Office of Research Protections for a determination of risk. 
 
-##### Someone or something is stuck to the magnet and there is a threat to life or limb  
+##### Magnet Emergency
 
-Under these conditions, and only these conditions, the intentional quench procedure should be followed. Under almost all circumstances, the decision to quench the magnet should be made by the MR Technologist or MR Physicist alone, unless he or she is incapacitated or absent or is the person whose life or well-being is affected. The intentional quency procedure is as follows:
+If someone or something is stuck to the magnet and there is a threat to life or limb, the intentional quench procedure should be followed by an authorized person. Under almost all circumstances, the decision to quench the magnet should be made by the MR Technologist or MR Physicist alone, unless he or she is incapacitated or absent or is the person whose life or well-being is affected. The intentional quency procedure is as follows:
 
 1. Prop doors open.
 	- Open scanner room door completely and prop open using orange doorstop.  
@@ -169,6 +167,14 @@ The oxygen sensor is a back-up system to ensure personnel safety in the event of
 
 SLEIC MR staff will contact Environmental Health and Safety (EHS) if indicated at (814) 865-6391 Monday Ð Friday 8am Ð 5pm. 
 
+##### Hearing Protection
+
+Hearing protection (in the form of earplugs or headphones, or both) must be used when scanning all participants. Also, researchers, or a parent accompanying the subject, must wear earplugs if they are in the magnet room during scanning. Earplugs must be the right size and properly inserted into the ear canal to obtain their full effect. This requires instruction and practice. It is the responsibility of the researcher to see that the subject is aptly fitted with hearing protection. Additional packing of the head with foam cushions further dampens the noise and is recommended in the 3T environment. 
+
+##### Communication during a scan
+
+All subjects must be given the emergency squeeze ball and instructions about how to use it. The subjects are to be monitored throughout the procedure via the speaker/intercom system.
+
 ### 4.2 Safety Training
 
 #### Policies
@@ -187,8 +193,12 @@ SLEIC's MRI Safety Officer or MR Technologist will conduct and supervise all saf
 
 - All members of a project's investigative team must undergo safety training.
 - Investigators require more extensive training and education in the broader aspects of MR safety issues.
-- The training consists of a video presentation, lecture/discussion, tour of the 3T MRI Suite, and a short quiz.
 - The MR Safety Officer or MR Technologist administers the safety training.
+- Safety Training consists of the following elements:
+	- Watch Shellock safety video
+	- Site specific orientation
+	- De-metaling
+	- Safety quiz
 
 ##### Refresher Safety Training for Investigators
 
@@ -209,6 +219,7 @@ SLEIC's MRI Safety Officer or MR Technologist will conduct and supervise all saf
 3. The Medical Director will make a determination whether it is safe to scan.
 4. If there is any question about whether it is safe to enter Zone IV or undergo a scan, that person shall not enter Zone IV or under go a scan.
 5. Participants must be screened before an appointment is scheduled (pre-visit screening) and at the time of the scheduled appointment (pre-scan screening).
+6. MRI scanning eligibility can change, so research participants who have completed a scanning form previously must must complete a new screening form prior to being scanned. 
 
 #### Procedures
 

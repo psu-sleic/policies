@@ -14,6 +14,6 @@
 3. New Business
 	- Piercings, metallic clothing
 	- Screening minors for pregnancy
-	- Review scans from all minors
+	- Incidental findings pathway
 	- Staff emergency response training
 	- Equipment tagging
