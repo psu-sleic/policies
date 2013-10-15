@@ -10,9 +10,12 @@
 		- Tim Mosher, SLEIC Medical Director
 		- Thomas Neuberger, SLEIC MR Physicist
 3.	Old Business
-	- Refresher safety training 
+	- Safety training
+		- [Agenda](sleic-safety-training-agenda.md)
+		- [Initial quiz](sleic-safety-quiz-initial.md)
+		- [Refresher quiz](sleic-safety-quiz-refresher.md)
 4. New Business
-	- Piercings, clothing with metal
+	- [Piercings](http://www.mrisafety.com/safety_article.asp?subject=163), clothing with metal
 	- Screening minors for pregnancy
 	- Incidental findings pathway
 	- Draft [Revision to Standard Operating Procedures (SOPs)](https://github.com/psu-sleic/policies/blob/master/sops/sleic-3T-sops-revised.md)
