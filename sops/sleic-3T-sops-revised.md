@@ -208,7 +208,15 @@ SLEIC's MRI Safety Officer or MR Technologist will conduct and supervise all saf
 
 - Level I personnel include IT and janitorial staff.
 - Level I personnel require minimal training in to ensure their safety as they work within Zone III.
-- Safety Training will be held annually for janitorial and IT staff. 
+- Safety Training will be held annually for janitorial and IT staff.
+- Safety training consists of the following elements:
+	- Basic familiarity with the hazards associated with the magnetic field
+		- Missile effect
+		- Malfunction of implanted medical devices
+	- Familiarity with the layout of the scanner suite.
+		- Location and meaning of magnetic field
+		- Location of scanner
+	- Instruction to attend to and obey all posted signs
 
 ### 4.3 Safety Screening
 
