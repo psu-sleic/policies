@@ -1,0 +1,42 @@
+# Penn State
+# SLEIC MRI Safety Training & Tour Checklist
+
+- Arrival
+	- When arriving make sure participants have completed online reading, and have completed the screening form and risk statement.
+- Watch Shellock video 
+	- Take Shellock quiz, miss more than 1 and participant will need to come back and retrain
+	- Initial training involves 1 hour video.
+	- Refresher training involves 30 min video.
+- Move to control room for tour
+	- Have participant remove any metal, empty pockets, etc.; store belongings in locker
+	- Enter control room
+	- Discuss investigator responsibilities
+	- MR risks
+		- Discuss projectile danger and safety screening
+		- Demo with handheld magnet
+	- Screening
+		- Screening for going into the room 
+		- Screening for being scanned
+		- Inform MR Tech if screening info changes, fill out new form
+		- Give participant screening form, give tech time to review it and verify any info
+		- Explain that just because you are safe to enter the room does not always mean you are safe to enter the scanner
+		- Check yourself, check your colleagues, keep each other safe
+	- Emergency response
+		- The technologist will take the lead on emergency response procedures (power, fire, quench)
+		- Discuss what to do if there is a power failure
+		- Show crank and emergency release
+		- Show location of flash light as there are no emergency lights
+		- Discuss alarms, O2 etc
+		- Discuss emergency procedure in case of fire or fire alarm and killing the electricity to the magnet
+	- Quench procedures -3 types
+		- When you would need to quench the magnet.  
+		- When you would NOT need to quench the magnet
+		- Discuss what to do if the magnet quenches unintentionally (and you hear the O2 alarm)
+	- Reporting 
+		- Report any safety incidents, near incidents, adverse events
+		- Report any failures to follow procedure
+		- Report any equipment problems
+	- Incidental Findings
+	- Pregnancy
+- Take SLEIC initial or refresher quiz, miss more than 3 retrain
+- Departure
