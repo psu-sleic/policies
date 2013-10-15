@@ -15,5 +15,6 @@
 	- Piercings, clothing with metal
 	- Screening minors for pregnancy
 	- Incidental findings pathway
+	- Draft [Revision to Standard Operating Procedures (SOPs)](https://github.com/psu-sleic/policies/blob/master/sops/sleic-3T-sops-revised.md)
 
-Here is additional [background](sleic-safety-comm-background-2013-10-18.md) on the screening and incidental findings issues.
+Here is additional [background](https://github.com/psu-sleic/policies/blob/master/safety-committee/sleic-safety-comm-background-2013-10-18.md) on the screening and incidental findings issues.
