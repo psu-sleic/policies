@@ -9,6 +9,7 @@
 |Modified  |By          |Comment            |
 |----------|------------|-------------------|
 |2013-10-11|Rick Gilmore|Based on 2013-06-25|
+|2013-10-21|Rick Gilmore|Minor edits        |
 
 ## 1. Purpose
 
@@ -63,13 +64,13 @@ The use of Magnetic Resonance Imaging (MRI) presents known safety hazards. MRI s
 	- Metallic objects in the body can also have dangerous effects when placed in a magnetic field. 
 	- Ferromagnetic metal implants or fragments may twist or move, causing internal injury.
 - The Radio Frequency (RF) pulses
-	- MRI scans use radi- frequency pulses. 
+	- MRI scans use radio frequency pulses. 
 	- RF pulses may cause tissue heating or burns.
 	- The FDA sets limits to the amount of heating or the Specific Absorption Rate (SAR) that is allowed.
 	- RF may damage electronic or implanted medical devices.
 	- RF fields can cause burns by producing electrical currents in conductive loops. 
 	- When using equipment such as surface coils, ECG or EEG leads, researchers must be extremely careful not to allow the wire or cable to form a conductive loop with itself or with the subject. 
-	- Equipment that is not RF shielded may be damaged or may cause spurious signals when operated in the magnetic field.
+	- Equipment that is not RF-shielded may be damaged or may cause spurious signals when operated in the magnetic field.
 - The Gradients or Time Varying Magnetic Fields
 	- Rapidly changing gradient fields used in MRI have the potential to cause peripheral nerve stimulation (PNS).
 	- Gradients produce excessive acoustic noise levels for which hearing protection must be provided and worn.
@@ -91,14 +92,12 @@ The use of Magnetic Resonance Imaging (MRI) presents known safety hazards. MRI s
 - Violation of confidentiality
 	- Sensitive information must be revealed to the MR Technologist and in some cases research staff as part of safety screening.
 - MRI System Quench
-
-	- The MRI magnet is maintained at a high field strength by means of super-cooling its conductive loops of wire with liquid helium, which is at an extremely low temperature – close to absolute zer- (about 4°K). In certain circumstances, this helium may be rapidly vented off, warming the magnet and causing it to quickly lose its magnetic field. This is known as a “quench.” A quench may be initiated either in a controlled fashion by pressing one of the tw- Magnet Stop buttons, in which case the helium is safely vented to the outside of the building or, in extraordinary situations, such as an earthquake or an explosion, it is possible for an uncontrolled quench to occur, in which case the helium may vent into the room making breathing difficult.
-
+	- The MRI magnet is maintained at a high field strength by means of super-cooling its conductive loops of wire with liquid helium, which is at an extremely low temperature – close to absolute zero (about 4°K). In certain circumstances, this helium may be rapidly vented off, warming the magnet and causing it to quickly lose its magnetic field. This is known as a **quench.** A quench may be initiated either in a controlled fashion by pressing one of the tw- Magnet Stop buttons, in which case the helium is safely vented to the outside of the building or, in extraordinary situations, such as an earthquake or an explosion, it is possible for an uncontrolled quench to occur, in which case the helium may vent into the room making breathing difficult.
 - Fire or Other Emergency
 
 ## 4. Policies and Procedures
 
-All of SLEIC's policies and procedures are designed to mitigate risk from participation in a research study involving MRI or other measures.
+All of SLEIC's policies and procedures are designed to mitigate risk from participation in a research study.
 
 ### 4.1 Magnet Operations
 
@@ -125,8 +124,8 @@ All of SLEIC's policies and procedures are designed to mitigate risk from partic
 
 - The MR Technologist, MR Physicist, and Director of Human Imaging have keys to the magnet room. There is a lockbox in the control room that also contains a key to the magnet. Only the MR Technologist, the MR Physicist, The Director of Human Imaging, and Siemens have the combination for the lockbox.
 - A SLEIC staff member or authorized MR Technologist must be present for access to the magnet room (Zone IV). 
-- Access to the control room (Zone III) will usually require a SLEIC staff member or authorized MR Technologist to be present since investigators do not have key access to this zone. The exception to this rule are IT staff and Siemens or OPP maintenance staff. Once granted access, these personnel may work in Zone III without SLEIC staff present, so long as access to Zone IV is not required and the door to the magnet room remains locked.
-- Chandlee is open to the public M-F during business hours. Chandlee entrances automatically lock at 5:00 pm on weekdays and thereafter and on weekends require key-card access to enter. PIs may request key card access to Chandlee. There are key-card access points at the loading dock door and the front door facing Pollock Road.
+- Access to the control room (Zone III) will usually require a SLEIC staff member or authorized MR Technologist to be present since investigators do not have key access to this zone. The exception to this rule are IT staff and Siemens or OPP maintenance staff. Once granted access, these personnel may work in Zone III without SLEIC staff present, so long as access to Zone IV is not required, and the door to the magnet room remains locked.
+- Chandlee is open to the public M-F during business hours. Chandlee entrances automatically lock at 5:00 pm on weekdays. Access to Chandlee after 5:00 pm and on weekends requires a key-card. PIs may request key-card access to Chandlee. There are key-card access points at the loading dock door and the front door facing Pollock Road.
 - Upon request, one set of keys will be granted to each PI.  The keys open the doors to rooms 6 (waiting room), 6A (interview room), 7 (prep room), and 7D (mock scanner room).  The keys will not open the control room or magnet room.  
 - To request a key, PIs should fill out the key request form and turn it in to SLEIC staff.
 - PIs will be required to turn in keys if their project(s) are complete and they are no longer collecting data.
@@ -161,15 +160,15 @@ State "There has been an incident with an MRI scanner and someone is pinned to t
 
 ##### Oxygen Sensor 
 
-The oxygen sensor is a back-up system to ensure personnel safety in the event of a quench that occurs off-hours, when the magnet is unattended. Certain operations of the scanner may trigger the O2 alarm when oxygen levels are unchanged. If the O2 alarm sounds during business hours the MRI Safety Officer should be contacted.  If the O2 alarm sounds during a participant's scan, the event should be noted in a 3T MRI Post Scan Problem Report Form (within 24 hrs or 1 business day of the occurrence).  The problem form is available online:
+The oxygen sensor is a back-up system to ensure personnel safety in the event of a quench that occurs off-hours when the magnet is unattended. Certain operations of the scanner may trigger the O2 alarm when oxygen levels are unchanged. If the O2 alarm sounds during business hours the MRI Safety Officer should be contacted.  If the O2 alarm sounds during a participant's scan, the event should be noted in a 3T MRI Post Scan Problem Report Form (within 24 hrs or 1 business day of the occurrence).  The problem form is available online:
  
 [https://www.imaging.psu.edu/for-investigators/frequently-used-forms/3t-mri-post-scan-problem-report-form](https://www.imaging.psu.edu/for-investigators/frequently-used-forms/3t-mri-post-scan-problem-report-form)
 
-SLEIC MR staff will contact Environmental Health and Safety (EHS) if indicated at (814) 865-6391 Monday Ð Friday 8am Ð 5pm. 
+SLEIC MR staff will contact Environmental Health and Safety (EHS) if indicated at (814) 865-6391 Monday - Friday 8am - 5pm. 
 
 ##### Hearing Protection
 
-Hearing protection (in the form of earplugs or headphones, or both) must be used when scanning all participants. Also, researchers, or a parent accompanying the subject, must wear earplugs if they are in the magnet room during scanning. Earplugs must be the right size and properly inserted into the ear canal to obtain their full effect. This requires instruction and practice. It is the responsibility of the researcher to see that the subject is aptly fitted with hearing protection. Additional packing of the head with foam cushions further dampens the noise and is recommended in the 3T environment. 
+Hearing protection (in the form of earplugs or headphones, or both) must be used when scanning all participants. Also, researchers, or a parent accompanying the participant, must wear earplugs if they are in the magnet room during scanning. Earplugs must be the right size and properly inserted into the ear canal to obtain their full effect. This requires instruction and practice. It is the responsibility of the researcher to see that the subject is aptly fitted with hearing protection. Additional packing of the head with foam cushions further dampens the noise and is recommended in the 3T environment. 
 
 ##### Communication during a scan
 
@@ -180,7 +179,7 @@ All subjects must be given the emergency squeeze ball and instructions about how
 #### Policies
 
 1. Every researcher and staff member must undergo safety training annually.
-2. Maintainance, IT, and emergency response (Level I) personnel must underg- safety training annually.
+2. Maintainance, IT, and emergency response (Level I) personnel must undergo safety training annually.
 3. SLEIC uses the videos developed by Dr. Frank Shellock, Ph.D. for safety training.
 
 #### Procedures
@@ -196,9 +195,11 @@ SLEIC's MRI Safety Officer or MR Technologist will conduct and supervise all saf
 - The MR Safety Officer or MR Technologist administers the safety training.
 - Safety Training consists of the following elements:
 	- Watch Shellock safety video
+	- Post video quiz
 	- Site specific orientation
 	- De-metaling
 	- Safety quiz
+- More details about the Safety Training curriculum may be found at [https://github.com/psu-sleic/policies/blob/master/safety-committee/sleic-safety-training-agenda.md](https://github.com/psu-sleic/policies/blob/master/safety-committee/sleic-safety-training-agenda.md)
 
 ##### Refresher Safety Training for Investigators
 
@@ -223,8 +224,8 @@ SLEIC's MRI Safety Officer or MR Technologist will conduct and supervise all saf
 #### Policies
 
 1. Any person who will enter the magnet room must pass safety screening.
-2. If the MR Technologist is uncertain about whether it is safe to scan an individual, he or she will consult the Medical Director.
-3. The Medical Director will make a determination whether it is safe to scan.
+2. If the MR Technologist is uncertain about whether it is safe for an individual to i) enter the scanner room or ii) undergo a scan, he or she will consult the Medical Director.
+3. The Medical Director will make a determination about whether it is safe to scan.
 4. If there is any question about whether it is safe to enter Zone IV or undergo a scan, that person shall not enter Zone IV or under go a scan.
 5. Participants must be screened before an appointment is scheduled (pre-visit screening) and at the time of the scheduled appointment (pre-scan screening).
 6. MRI scanning eligibility can change, so research participants who have completed a scanning form previously must must complete a new screening form prior to being scanned. 
@@ -247,15 +248,15 @@ There are several components of the pre-scan screening process.
 
 - Completion of the SLEIC 3T MRI Safety Screening Form (see Appendix B).
 
-	All persons must complete, prior to **entering the scanner room** (Zone IV) for the first time, an accurate and up-to-date screening form. **Research participants or others being scanned, must complete a screening form prior to each scan.** 
+	All persons must complete, **prior to entering the scanner room** (Zone IV) for the first time, an accurate and up-to-date screening form. **Research participants or others being scanned must complete a screening form prior to each scan** unless their prior scan was earlier the same day. 
 
-	Investigators will fill out this form for themselves at their safety training session and SLEIC will keep a copy for its records.  This form only needs to be completed once (not every time they enter the scanner room), unless the information changes. It is the investigator's responsibility to inform the MR Technologist if the information on this form has changed.  If so, the investigator should fill out a new form before entering the scanner room. If an investigator wants to be scanned as a pilot subject to test their paradigm, the investigator should fill out a new form before they are scanned. The investigator must also sign their IRB-approved consent form or the SLEIC risk statement (see Appendix B).
+	Investigators will fill out the screening form for themselves at their safety training session and SLEIC will keep a copy for its records.  This form only needs to be completed once (not every time they enter the scanner room), unless the information changes. It is the investigator's responsibility to inform the MR Technologist if the information on the screening form has changed.  If so, the investigator should fill out a new form before entering the scanner room. If an investigator wants to be scanned as a pilot subject to test their paradigm, the investigator should fill out a new form before he or she is scanned. The investigator must also sign an IRB-approved consent form or the SLEIC risk statement (see Appendix B).
 
 - Removal of all metal items
 
-	Before entering the magnet room, everyone must remove all metallic objects from their person, pockets, and clothing, including hearing aids, dentures, partial plates, keys, beepers, cell phone, eyeglasses, hair pins, barrettes, jewelry, body piercing jewelry, watch, safety pins, paperclips, money clip, credit cards, bank cards, magnetic strip cards, coins, pens, pocket knife, nail clippers, and tools.
+	Before entering the magnet room, everyone must remove all metallic objects from their person, pockets, and in some cases, clothing. This includes hearing aids, dentures, partial plates, keys, beepers, cell phone, eyeglasses, hair pins, barrettes, jewelry, body piercing jewelry, watch, safety pins, paperclips, money clip, credit cards, bank cards, magnetic strip cards, coins, pens, pocket knife, nail clippers, and tools.
 
-	If the MR Technologist determines that clothing with metal fasteners  metallic threads poses a potential risk, he or she may ask that these be removed, as well. SLEIC provides scrubs for individuals to wear if their clothing poses a potential risk.
+	If the MR Technologist determines that clothing with metal fasteners or metallic threads poses a potential risk, he or she may ask that these clothing items be removed, as well. SLEIC provides scrubs for individuals to wear if their clothing poses a potential risk.
 
 	Lockers are provided in 7 Chandlee for securely storing belongings, including all metal items. Investigators and the MR Technologist will ensure any potentially hazardous metal items are stored in the lockers before the participant enters the magnet room.
 
@@ -267,7 +268,7 @@ There are several components of the pre-scan screening process.
 
 	If the participant indicates something on the screening form that may be a potential safety risk (e.g., an implant or device), the participant may be required to provide documentation about the device (e.g., a stent) before proceeding with scanning. 
 
-	If the MR Technologist can verify from MRISafety.com that the item is safe to scan at 3T, they may proceed with scanning. Any documentation will be stapled to the screening form. If the MR Technologist has a question about whether a participant is safe to scan, he or she will consult the SLEIC Medical Director.
+	If the MR Technologist can verify from [MRISafety.com](http://MRISafety.com) that the item is safe to scan at 3T, he or she may proceed with scanning. Any documentation will be stapled to the screening form. If the MR Technologist has a question about whether a participant is safe to scan, he or she will consult the SLEIC Medical Director.
 
 	Research teams who wish to scan individuals multiple times may wish to keep copies of any device documentation.
 
@@ -285,16 +286,16 @@ There are several components of the pre-scan screening process.
 
 - Determination of eligibility to enter the scanner room or undergo a scan
 
-	If there is ANY doubt about whether the person should be scanned, and the MR Technologist cannot verify from MRISafety.com that the item is safe to scan or gain approval from the SLEIC Medical Director that it is safe to scan, they will not be scanned. THERE ARE NO EXCEPTIONS TO THIS POLICY.
+	If there is ANY doubt about whether the person should be scanned, and the MR Technologist cannot verify from [MRISafety.com](http://MRISafety.com) that the item is safe to scan or gain approval from the SLEIC Medical Director that it is safe to scan, the person will NOT be scanned. **THERE ARE NO EXCEPTIONS TO THIS POLICY.**
 
-	If the MR Technologist or MR Safety Officer determines that a person is eligibible to be scanned, he or she will indicate that judgment in writing on the screening form.
+	If the MR Technologist or MR Safety Officer determines that a person is eligible to be scanned, he or she will indicate that judgment in writing on the screening form.
 
 ### 4.4 Device, object, and equipment screening
 
 - Ferrous objects, including those brought by participants, visitors, contractors, etc., should be restricted from entering Zone III, whenever practical.
-- If there is any question about whether an item is allowed in the MRI scanner room (Zone IV) the item will be carefully checked by SLEIC MR personnel (e.g., with a handheld magnet) before it is allowed in the room.
+- If there is any question about whether an item is allowed in the MRI scanner room (Zone IV) the item must be carefully checked by SLEIC MR personnel (e.g., with a handheld magnet) before it is allowed in the room.
 - External devices or objects demonstrated to be ferromagnetic and MR unsafe or incompatible in the MR environment may still, under specific circumstances, be brought into the control room (Zone III) (e.g., if necessary for research purposes).  
-- They should only be brought into the Zone III if they are under the direct supervision of specifically designated personnel who are thoroughly familiar with the device, its function, and the reason supporting its introduction to Zone III.
+- External devices should only be brought into the Zone III if they are under the direct supervision of specifically designated personnel who are thoroughly familiar with the device, its function, and the reason supporting its introduction to Zone III.
 - The safe utilization of these devices while they are present in Zone III will be the responsibility of specifically named level 1 or 2 MR personnel.
 
 ### 4.4 IRB approval, SLEIC approval, informed consent, confidentiality, and record-keeping
@@ -361,7 +362,7 @@ SLEIC staff will review an approve protocols for use of the facility. Details ab
 	- Neither the researcher nor the technologist should discuss their concerns with any additional persons such as collaborators or friends. 
 	- To facilitate follow-up care, the participant may be given a copy of his/her images upon request.
 	- The decision as to whether to proceed with further examination or treatment lies solely and completely with the participant.  
-	- If, at any time during the processing of the data, the investigator discovers an incidental finding they should fill out the 3T MRI Post Scan Problem Report form.  The form is available online: https://www.imaging.psu.edu/for-investigators/frequently-usedoforms/3tomri-postoscanoproblem-reportoform 
+	- If, at any time during the processing of the data, the investigator discovers an incidental finding they should fill out the 3T MRI Post Scan Problem Report form.  The form is available online: https://www.imaging.psu.edu/for-investigators/frequently-used-forms/3t-mri-post-scan-problem-report-form 
 
 ##### Magnet Quench
 
@@ -390,21 +391,18 @@ If the magnet quenches accidentally without the button being pushed, follow this
 ##### Safety Incidents
 
 - All MR safety incidents or near incidents (e.g., a paperclip flew into the scanner but no one was hurt) that occur in the MR site should be reported to the Director and the MRI Safety Officer in a timely fashion (within 24 hrs or 1 business day of their occurrence).
-- The event should be noted in a 3T MRI Post Scan Problem Report Form (within 24 hrs or 1 business day of their occurrence).  The form is available online: 
-https://www.imaging.psu.edu/for-investigators/frequently-used-forms/3t-mri-post-scan-problem-report-form 
+- The event should be noted in a 3T MRI Post Scan Problem Report Form (within 24 hrs or 1 business day of their occurrence).  The form is available online: [https://www.imaging.psu.edu/for-investigators/frequently-used-forms/3t-mri-post-scan-problem-report-form](https://www.imaging.psu.edu/for-investigators/frequently-used-forms/3t-mri-post-scan-problem-report-form) 
 - In accordance with the FDA, all MR safety incidents will be reported to the FDA via their MedWatch program.
 - If a participant was involved in the safety incident
 	- In addition to the above, the investigator should also immediately contact the PI and inform them of the incident. 
-	- The PI should follow reporting requirements as outlined in the IRB SOP Addendum http://www.research.psu.edu/orp/humans/policies/sops/up-sop.pdf/view
+	- The PI should follow reporting requirements as outlined in the [IRB SOP Addendum](http://www.research.psu.edu/orp/humans/policies/sops/up-sop.pdf/view)
 
 ##### Unanticipated Problems 
 
-- If a participant experiences an unanticipated problem (e.g., an Òinternal adverse eventÓ according to the IRB SOP definition) the scan must be stopped immediately and the participant must be removed from the scanner.
-- The event should be noted in a 3T MRI Post Scan Problem Report Form (within 24 hrs or 1 business day of their occurrence).  The form is available online: 
-https://www.imaging.psu.edu/for-investigators/frequently-used-forms/3t-mri-post-scan-problem-report-form 
+- If a participant experiences an unanticipated problem (e.g., an internal adverse event according to the IRB SOP definition) the scan must be stopped immediately and the participant must be removed from the scanner.
+- The event should be noted in a 3T MRI Post Scan Problem Report Form (within 24 hrs or 1 business day of their occurrence).  The form is available online: [https://www.imaging.psu.edu/for-investigators/frequently-used-forms/3t-mri-post-scan-problem-report-form](https://www.imaging.psu.edu/for-investigators/frequently-used-forms/3t-mri-post-scan-problem-report-form)]
 - The investigator should also immediately contact the PI and inform them of the event. 
-- The PI should follow reporting requirements as outlined in the IRB SOP Addendum
-
+- The PI should follow reporting requirements as outlined in the IRB SOP Addendum: 
 [http://www.research.psu.edu/orp/humans/policies/sops/up-sop.pdf/view](http://www.research.psu.edu/orp/humans/policies/sops/up-sop.pdf/view).
 
 ### 4.6 Compliance
@@ -543,7 +541,3 @@ https://www.imaging.psu.edu/for-investigators/3t-mri-facility/irb-information
 	*The vision correction provided will be as close as possible to your prescription, but please keep in mind that astigmatism cannot be corrected.* 
 
 	*At any time if you have questions about a participants' eligibility, please contact the MRI Technologist. The MRI Technologist is happy to help ensure that only the appropriate potential participants are excluded.*
-
-
-
-
