@@ -1,3 +1,4 @@
+** D R A F T revision 2013-11-04 **
 # Penn State 
 # Social, Life, & Engineering Sciences Imaging Center (SLEIC)
 
@@ -530,9 +531,9 @@ https://www.imaging.psu.edu/for-investigators/3t-mri-facility/irb-information
 		
 		If the potential participant reports having had an implant, say the following:
 		
-		*Since you have indicated that you have a stent, implant/device, etc. you must bring your implant card along with a description of the specifications of the implant/device. The MRI technologist will need to make a copy of this information to attach to the screening form.* 4. *Have you had any injury to the eye involving metal?* 
+		*Since you have indicated that you have a stent, implant/device, etc. you must bring your implant card along with a description of the specifications of the implant/device. The MRI technologist will need to make a copy of this information to attach to the screening form.* 
+4. *Have you had any injury to the eye involving metal?* 
 5. *Have you had any injury to any body part involving metal?* 
-
 	- *Describe the injury involving metal. How long ago was it? Has the metal been removed?*
 
 6. Females: *Is there any chance that you are pregnant?* 
@@ -540,7 +541,7 @@ https://www.imaging.psu.edu/for-investigators/3t-mri-facility/irb-information
 
 7. *Do you wear glasses or contacts?*
 
-	*Contacts are recommended over glasses if you have them. If you do not have contacts, please bring a copy of your prescription. We will need to fit you with MR compatible glasses.* 
+	*Contacts are recommended over glasses. If you do not have contacts, please bring a copy of your prescription. We will need to fit you with MR compatible glasses.* 
 
 	*The vision correction provided will be as close as possible to your prescription, but please keep in mind that astigmatism cannot be corrected.* 
 
