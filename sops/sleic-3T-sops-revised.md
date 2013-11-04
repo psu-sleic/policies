@@ -10,6 +10,8 @@
 |----------|------------|-------------------|
 |2013-10-11|Rick Gilmore|Based on 2013-06-25|
 |2013-10-21|Rick Gilmore|Minor edits        |
+|2013-11-04|Rick Gilmore|Emails to Safety Committee List|
+|2013-11-04|Rick Gilmore|Merged quench procedures|
 
 ## 1. Purpose
 
@@ -23,13 +25,13 @@ The SLEIC MRI Safety Committee is a group of experts charged with overseeing and
 
 The current composition of the Safety Committee is as follows:
 
-- **Rick O. Gilmore**, Ph.D., SLEIC Director of Human Imaging, Associate Professor of Psychology, Chair
-- **Nancy Dennis**, Ph.D., Assistant Professor of Psychology
-- **Amanda Gearhart**, SLEIC MR Technologist
-- **Charles Geier**, Ph.D., Assistant Professor of Human Development and Family Studies
-- **Joanna (Josy) Lyons**, Office of Research Protections
-- **Tim Mosher, M.D.**, SLEIC Medical Director, Director of Research, CNMRR
-- **Thomas Neuberger**, Ph.D., Director of SLEIC High Field MRI Facility, Assistant Professor of Bioengineering.
+- **Rick O. Gilmore**, Ph.D., SLEIC Director of Human Imaging, Associate Professor of Psychology, Chair, <rog1@psu.edu>
+- **Nancy Dennis**, Ph.D., Assistant Professor of Psychology, <nad12@psu.edu>
+- **Amanda Gearhart**, SLEIC MR Technologist, <axg34@psu.edu>
+- **Charles Geier**, Ph.D., Assistant Professor of Human Development and Family Studies, <cfg2@psu.edu>
+- **Joanna (Josy) Lyons**, Office of Research Protections, <jlm38@psu.edu>
+- **Tim Mosher, M.D.**, SLEIC Medical Director, Director of Research, CNMRR, <TMOSHER@hmc.psu.edu>
+- **Thomas Neuberger**, Ph.D., Director of SLEIC High Field MRI Facility, Assistant Professor of Bioengineering, <tun3@psu.edu>
 
 ### SLEIC Medical Director
 A physician, typically a radiologist, whose responsibilities include ensuring that MR safe practice guidelines are established and maintained as current and appropriate for SLEIC. 
@@ -53,8 +55,7 @@ A faculty or staff member, postdoctoral researcher or graduate student who condu
 An individual who agrees to participate in research at SLEIC.
 
 ## 3. Nature of the risk
-
-The use of Magnetic Resonance Imaging (MRI) presents known safety hazards. MRI safety guidelines have been developed so that investigators, researchers, students, colleagues, study participants, and associated equipment remain safe in the magnet environment. The principal sources of risk include the following:
+The use of magnetic resonance imaging (MRI) presents known safety hazards. MRI safety guidelines have been developed so that investigators, researchers, students, colleagues, study participants, and associated equipment remain safe in the magnet environment. The principal sources of risk include the following:
 
 - The static or main magnetic field
 	- The strong magnetic field is always present.
@@ -103,15 +104,15 @@ All of SLEIC's policies and procedures are designed to mitigate risk from partic
 
 #### Policies
 
-1. SLEIC maintains a safe and orderly operational environment.
-2. Only qualified persons may operate the 3T MR scanner.
-3. The scanner is maintained regularly by trained personnel from the manufacturer, Siemens. Any system problems are reported promptly to the Siemens.
-4. Sequences and coils not yet approved by the Food and Drug Administration (FDA) should only be used under the following conditions:
-	- Overriding or disabling the Siemens Specific Absorption Rate (SAR) and rate of magnetic field change (dB/dt) monitoring software is prohibited.
-5. Access to the control room (Zone III) and magnet room (Zone IV) are strictly controlled.
-6. At least two safety-trained personnel must be on hand and in the control room (Zone III) or magnet room (Zone IV) when the magnet is in operation. This will usually be the MR Technologist and a member of the research team.
-7. With the exception of SLEIC staff, all personnel present must be included on the project's IRB protocol. It is responsibility of the project PI to ensure that all personnel present are included on the approved IRB protocol. 
-8. The MR Technologist will take the lead on any emergency response procedures, with the help of the second person present.
+- SLEIC maintains a safe and orderly operational environment.
+- Only qualified persons may operate the 3T MR scanner.
+- The scanner is maintained regularly by trained personnel from the manufacturer, Siemens. Any system problems are reported promptly to the Siemens.
+- Sequences and coils not yet approved by the Food and Drug Administration (FDA) should only be used under the following conditions:
+- Overriding or disabling the Siemens Specific Absorption Rate (SAR) and rate of magnetic field change (dB/dt) monitoring software is prohibited.
+- Access to the control room (Zone III) and magnet room (Zone IV) are strictly controlled.
+- At least two safety-trained personnel must be on hand and in the control room (Zone III) or magnet room (Zone IV) when the magnet is in operation. This will usually be the MR Technologist and a member of the research team.
+- With the exception of SLEIC staff, all personnel present must be included on the project's IRB protocol. It is responsibility of the project PI to ensure that all personnel present are included on the approved IRB protocol. 
+- The MR Technologist will take the lead on any emergency response procedures, with the help of the second person present.
 
 #### Procedures
 
@@ -139,6 +140,8 @@ All of SLEIC's policies and procedures are designed to mitigate risk from partic
 
 ##### Magnet Emergency
 
+###### Intentional Quench
+
 If someone or something is stuck to the magnet and there is a threat to life or limb, the intentional quench procedure should be followed by an authorized person. Under almost all circumstances, the decision to quench the magnet should be made by the MR Technologist or MR Physicist alone, unless he or she is incapacitated or absent or is the person whose life or well-being is affected. The intentional quency procedure is as follows:
 
 1. Prop doors open.
@@ -157,6 +160,22 @@ State "There has been an incident with an MRI scanner and someone is pinned to t
 	- Call (814) 865-6391 Monday-Friday 8 am-5 pm
 	- Call (814) 863-1111 (University Police) all other times.  After hours, University Police will notify the appropriate EHS staff member to provide assistance.
 7. Call Siemens 1-800-888-7436. Dial 8-1-800-888-7436 from control room phone.  Press 2 then press 1 and give them the system ID number (213542).  Tell Siemens that the magnet has quenched and this is an emergency.
+
+###### Unintentional Quench
+If the magnet quenches accidentally without the button being pushed, follow this procedure:
+
+1. If there is a person in the scanner room
+	a. Prop scanner room door open.  Open scanner room door completely and prop open using the orange doorstop.  
+	b. Evacuate the scanner room.
+2. Close and lock the scanner room door.
+3. Leave the control room, go to room 6 to make phone calls.
+4. Call for help.
+	a. Call Rick Gilmore (814) 777-3298.  Dial 8-777-3298 from room 6.
+	b. Call Amanda Gearhart (717) 250-4408.  Dial 8-1-717-250-4408 from room 6 phone.
+5. Call Environmental Health and Safety (EHS)
+	a. Call (814) 865-6391 Monday-Friday 8 am-5 pm
+	b. Call (814) 863-1111 (University Police) all other times.  After hours, University Police will notify the appropriate EHS staff member to provide assistance.
+6. Call Siemens 1-800-888-7436. Dial 8-1-800-888-7436 from control room phone.  Press 2 then press 1 and give them the system ID number (213542).  Tell Siemens that the magnet has quenched and this is an emergency.
 
 ##### Oxygen Sensor 
 
@@ -178,9 +197,9 @@ All subjects must be given the emergency squeeze ball and instructions about how
 
 #### Policies
 
-1. Every researcher and staff member must undergo safety training annually.
-2. Maintainance, IT, and emergency response (Level I) personnel must undergo safety training annually.
-3. SLEIC uses the videos developed by Dr. Frank Shellock, Ph.D. for safety training.
+- Every researcher and staff member must undergo safety training annually.
+- Maintainance, IT, and emergency response (Level I) personnel must undergo safety training annually.
+- SLEIC uses the videos developed by Dr. Frank Shellock, Ph.D. for safety training.
 
 #### Procedures
 
@@ -223,12 +242,13 @@ SLEIC's MRI Safety Officer or MR Technologist will conduct and supervise all saf
 
 #### Policies
 
-1. Any person who will enter the magnet room must pass safety screening.
-2. If the MR Technologist is uncertain about whether it is safe for an individual to i) enter the scanner room or ii) undergo a scan, he or she will consult the Medical Director.
-3. The Medical Director will make a determination about whether it is safe to scan.
-4. If there is any question about whether it is safe to enter Zone IV or undergo a scan, that person shall not enter Zone IV or under go a scan.
-5. Participants must be screened before an appointment is scheduled (pre-visit screening) and at the time of the scheduled appointment (pre-scan screening).
-6. MRI scanning eligibility can change, so research participants who have completed a scanning form previously must must complete a new screening form prior to being scanned. 
+- Any person who will enter the magnet room must pass safety screening.
+- If the MR Technologist is uncertain about whether it is safe for an individual to i) enter the scanner room or ii) undergo a scan, he or she will consult the Medical Director.
+- The Medical Director will make a determination about whether it is safe to scan.
+- If either the MR Technologist or Medical Director have doubts about whether it is safe for a person to be scanned, that person should not be scanned.
+- If there is any question about whether it is safe for a person to enter Zone IV or undergo a scan, that person shall not enter Zone IV or under go a scan.
+- Participants must be screened before an appointment is scheduled (pre-visit screening) and at the time of the scheduled appointment (pre-scan screening).
+- MRI scanning eligibility can change, so research participants who have completed a scanning form previously must must complete a new screening form prior to being scanned. 
 
 #### Procedures
 
@@ -278,11 +298,11 @@ There are several components of the pre-scan screening process.
 
 - Scanning Minors
 	
-	There are special considerations involved in scanning minors:
+There are special considerations involved in scanning minors:
 
-	- Visitors who accompany adult participants are usually asked to wait in room 6 rather than 7.  Parents of child participants may wait in room 7 in order to be near the child.
-	- Children may want to bring a comfort item from home (e.g., stuffed animal, blanket).  The item will be carefully checked by the MR Technologist prior to permitting the child to enter Zone IV with the object in order to ensure that it does not contain any objectionable metallic components.
-	- If there is a possibility that a parent would want to enter the magnet room to accompany their child, the parent must be screened using the same criteria as any visitor entering the scanner room.  If a parent wants to remain in the magnet room during scanning, they will wear hearing protection.
+- Visitors who accompany adult participants are usually asked to wait in room 6 rather than 7.  Parents of child participants may wait in room 7 in order to be near the child.
+- Children may want to bring a comfort item from home (e.g., stuffed animal, blanket).  The item will be carefully checked by the MR Technologist prior to permitting the child to enter Zone IV with the object in order to ensure that it does not contain any objectionable metallic components.
+- If there is a possibility that a parent would want to enter the magnet room to accompany their child, the parent must be screened using the same criteria as any visitor entering the scanner room.  If a parent wants to remain in the magnet room during scanning, they will wear hearing protection.
 
 - Determination of eligibility to enter the scanner room or undergo a scan
 
@@ -302,9 +322,9 @@ There are several components of the pre-scan screening process.
 
 #### Policies
 
-1. All research at SLEIC must be conducted under a protocol that has been approved by the IRB and by SLEIC staff.
-2. All individuals who enter the scanner environment or undergo a scan for research or non-research purposes must be informed about the possible risks. This must be acknowledged in writing, either by signature on an IRB approved consent form or on SLEIC's statement of risk.
-3. Research participants and others have a right to expect that their participation in research and the sensitive information they provide as part of a safety screening procedure will be kept confidential by SLEIC staff and researchers.
+- All research at SLEIC must be conducted under a protocol that has been approved by the IRB and by SLEIC staff.
+- All individuals who enter the scanner environment or undergo a scan for research or non-research purposes must be informed about the possible risks. This must be acknowledged in writing, either by signature on an IRB approved consent form or on SLEIC's statement of risk.
+- Research participants and others have a right to expect that their participation in research and the sensitive information they provide as part of a safety screening procedure will be kept confidential by SLEIC staff and researchers.
 
 #### Procedures
 
@@ -343,9 +363,9 @@ SLEIC staff will review an approve protocols for use of the facility. Details ab
 
 #### Policies
 
-1. Investigators are not trained to perform medical diagnosis, and the scans to be performed at SLEIC are not optimized to find abnormalities nor were they ordered by a physician.  However, on occasion, a member of the research team may notice a finding on a scan that seems abnormal. The ethical course of action is to determine whether the finding poses a risk to health and to communicate that risk to participants, if, and only if, there is such a risk.
-2. Fire or police personnel cannot have free access to Zone III or IV areas.  An injury or death may result from the entry of untrained personnel.
-3. Communication is the key to prevention. All incidents must be reported promptly.
+- Investigators are not trained to perform medical diagnosis, and the scans to be performed at SLEIC are not optimized to find abnormalities nor were they ordered by a physician.  However, on occasion, a member of the research team may notice a finding on a scan that seems abnormal. The ethical course of action is to determine whether the finding poses a risk to health and to communicate that risk to participants, if, and only if, there is such a risk.
+- Fire or police personnel cannot have free access to Zone III or IV areas.  An injury or death may result from the entry of untrained personnel.
+- Communication is the key to prevention. All incidents must be reported promptly.
 
 #### Procedures
 
@@ -363,22 +383,6 @@ SLEIC staff will review an approve protocols for use of the facility. Details ab
 	- To facilitate follow-up care, the participant may be given a copy of his/her images upon request.
 	- The decision as to whether to proceed with further examination or treatment lies solely and completely with the participant.  
 	- If, at any time during the processing of the data, the investigator discovers an incidental finding they should fill out the 3T MRI Post Scan Problem Report form.  The form is available online: https://www.imaging.psu.edu/for-investigators/frequently-used-forms/3t-mri-post-scan-problem-report-form 
-
-##### Magnet Quench
-
-If the magnet quenches accidentally without the button being pushed, follow this procedure:
-
-1. Prop scanner room door open.  Open scanner room door completely and prop open using the orange doorstop.  
-2. Evacuate the scanner room.
-3. Close and lock the scanner room door.
-4. Leave the control room, go to room 6 to make phone calls.
-5. Call for help.
-	a. Call Rick Gilmore (814) 777-3298.  Dial 8-777-3298 from room 6.
-	b. Call Amanda Gearhart (717) 250-4408.  Dial 8-1-717-250-4408 from room 6 phone.
-6. Call Environmental Health and Safety (EHS)
-	a. Call (814) 865-6391 Monday-Friday 8 am-5 pm
-	b. Call (814) 863-1111 (University Police) all other times.  After hours, University Police will notify the appropriate EHS staff member to provide assistance.
-7. Call Siemens 1-800-888-7436. Dial 8-1-800-888-7436 from control room phone.  Press 2 then press 1 and give them the system ID number (213542).  Tell Siemens that the magnet has quenched and this is an emergency.
 
 ##### Fire 
 
