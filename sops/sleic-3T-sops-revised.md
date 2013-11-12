@@ -376,14 +376,14 @@ SLEIC staff will review an approve protocols for use of the facility. Details ab
 	- The MR Technologist will contact the radiologist, or the MR Technologist will notify the Director and the MRI Safety Officer immediately so that they can contact the radiologist.	
 - If the researcher discovers the incidental finding after the scan session during data processing and analysis, they should alert the MRI MR Technologist on duty immediately.  The MR Technologist will in turn inform the Director of Human Imaging, and inform the consulting radiologist.
 - In both cases, the images will be provided to the radiologist for review.
-	- If the radiologist recommends further follow-up, the participant will be contacted within 48 hours of the recommendation and suggest that they contact their private medical provider for follow-up.  
+	- If the radiologist recommends further follow-up, the participant will be contacted within 48 hours of the recommendation. The person making contact will suggest that the participant contact a private medical provider for follow-up.    
 	- The PI, a senior member of SLEIC staff, the radiologist, or another designate will contact the participant. 
 	- The participant should NOT be alerted about the finding by the researcher or the technologist. 
 	- It is NEVER appropriate to discuss concerns about an incidental finding with the participant. 
 	- Neither the researcher nor the technologist should discuss their concerns with any additional persons such as collaborators or friends. 
 	- To facilitate follow-up care, the participant may be given a copy of his/her images upon request.
 	- The decision as to whether to proceed with further examination or treatment lies solely and completely with the participant.  
-	- If, at any time during the processing of the data, the investigator discovers an incidental finding they should fill out the 3T MRI Post Scan Problem Report form.  The form is available online: https://www.imaging.psu.edu/for-investigators/frequently-used-forms/3t-mri-post-scan-problem-report-form 
+	- If, at any time during the processing of the data, the investigator discovers an incidental finding they should fill out the 3T MRI Post Scan Problem Report form.  The form is available online: https://www.imaging.psu.edu/for-investigators/frequently-used-forms/3t-mri-post-scan-problem-report-form.
 
 ##### Fire 
 
