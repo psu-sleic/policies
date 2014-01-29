@@ -28,7 +28,7 @@ The current composition of the Safety Committee is as follows:
 
 - **Rick O. Gilmore**, Ph.D., SLEIC Director of Human Imaging, Associate Professor of Psychology, Chair, <rog1@psu.edu>
 - **Nancy Dennis**, Ph.D., Assistant Professor of Psychology, <nad12@psu.edu>
-- **Amanda Gearhart**, SLEIC MR Technologist, <axg34@psu.edu>
+- **Debra Weston**, SLEIC MR Technologist, <dlw54@psu.edu>
 - **Charles Geier**, Ph.D., Assistant Professor of Human Development and Family Studies, <cfg2@psu.edu>
 - **Joanna (Josy) Lyons**, Office of Research Protections, <jlm38@psu.edu>
 - **Tim Mosher, M.D.**, SLEIC Medical Director, Director of Research, CNMRR, <TMOSHER@hmc.psu.edu>
