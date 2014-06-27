@@ -50,9 +50,11 @@ a.	Unit activities and goals relative to sustainability
 
 b.	Unit activities and goals relative to diversity 
 
-	SLEIC continues to seek out and hire staff from underrepresented groups.
+	SLEIC continues to seek out and hire staff from underrepresented groups. 
 
 c.	Unit activities and goals relative to ethics and civility
+
+	SLEIC will incorporate ethics and professional conduct training into a new semi-weekly seminar series.
 
 ### 5.  What new resources would enable key innovation(s) in the unit?
 

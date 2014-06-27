@@ -1,4 +1,4 @@
-** D R A F T revision 2013-11-04 **
+** D R A F T revision 2014-01-02 **
 # Penn State 
 # Social, Life, & Engineering Sciences Imaging Center (SLEIC)
 
@@ -13,6 +13,7 @@
 |2013-10-21|Rick Gilmore|Minor edits        |
 |2013-11-04|Rick Gilmore|Emails to Safety Committee List|
 |2013-11-04|Rick Gilmore|Merged quench procedures|
+|2014-01-02|Rick Gilmore|Minor edits |
 
 ## 1. Purpose
 
@@ -28,7 +29,6 @@ The current composition of the Safety Committee is as follows:
 
 - **Rick O. Gilmore**, Ph.D., SLEIC Director of Human Imaging, Associate Professor of Psychology, Chair, <rog1@psu.edu>
 - **Nancy Dennis**, Ph.D., Assistant Professor of Psychology, <nad12@psu.edu>
-- **Amanda Gearhart**, SLEIC MR Technologist, <axg34@psu.edu>
 - **Charles Geier**, Ph.D., Assistant Professor of Human Development and Family Studies, <cfg2@psu.edu>
 - **Joanna (Josy) Lyons**, Office of Research Protections, <jlm38@psu.edu>
 - **Tim Mosher, M.D.**, SLEIC Medical Director, Director of Research, CNMRR, <TMOSHER@hmc.psu.edu>
@@ -440,9 +440,10 @@ SLEIC's MRI safety practices are monitored by SLEIC's Medical Director and an ap
 | Name | Title | Office | Phone | Email |
 |------|-------|--------|-------|-------|
 |Rick Gilmore|Associate Professor of Psychology & Director of Human Imaging|120C Chandlee|814-867-2971 (office), 814-777-3298 (cell)|rogilmore@psu.edu|
-|Amanda Gearhart|SLEIC 3T MRI Technologist & Acting MRI Safety Officer|5C Chandlee|814-867-2996 (office)|axg34@psu.edu|
+|Debra Weston|MRI Technologist| (814) 207-6651 (cell)| magnetic2244@gmail.com |
 |Andrea Seisler|HEF Laboratory Manager|120D Chandlee|814-865-6774 (office), 814-933-9201 (cell)|ars17@psu.edu|
 |Thomas Neuberger|Assistant Professor of Bioengineering & SLEIC MR Physicist| |(814) 863-7625 (office), (814) 360-5285 (cell)|tun3@psu.edu|
+|Ken Hwang|Research Programmer|(267) 795-8889 (cell)|krh5058@psu.edu|
 
 NOTE: In the event that Rick Gilmore is unavailable, his designated backup person should work with the PI to resolve the situation.  
 
